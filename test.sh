@@ -4,3 +4,5 @@ time=`date`
 echo "Hello Riyaz"
 
 echo "last code successful run at $time"
+
+echo "Thank you. Bye"
