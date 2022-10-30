@@ -1,5 +1,6 @@
 #!/bin/bash
+time=`date`
 
 echo "Hello Riyaz"
 
-echo "last code successful run at $date"
+echo "last code successful run at $time"
